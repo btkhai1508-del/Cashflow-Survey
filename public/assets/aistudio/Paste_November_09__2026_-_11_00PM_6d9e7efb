@@ -1,0 +1,3707 @@
+/* Frame 1000001903 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: relative;
+width: 1100px;
+height: 3688.49px;
+
+background: #FFFFFF;
+
+
+/* Frame 1000001900 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 7.28px;
+
+width: 1100px;
+height: 737.7px;
+
+background: #F5ABCE;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000001901 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 87.3016px 7.27513px 7.27513px;
+gap: 65.48px;
+
+width: 1100px;
+height: 737.7px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 0px 0px 0px 365.575px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 19124 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 501.55px;
+height: 125.86px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Questionary */
+
+width: 501.55px;
+height: 72.02px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 81px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #424242;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Product feedback */
+
+width: 407.41px;
+height: 53.84px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 41px;
+line-height: 56px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #424242;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 19125 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 22.55px;
+
+width: 1085.45px;
+height: 333.34px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Question 1 */
+
+width: 210px;
+height: 50px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #424242;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000001906 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 202.976px;
+gap: 7.28px;
+
+width: 1085.45px;
+height: 260.79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000001907 */
+
+width: 678.77px;
+height: 260.79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 19124 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 7.28px;
+isolation: isolate;
+
+position: absolute;
+width: 222.71px;
+height: 225.14px;
+left: calc(50% - 222.71px/2 - 60.7px);
+top: 35.65px;
+
+
+
+/* Rectangle 1550 */
+
+box-sizing: border-box;
+
+width: 190.89px;
+height: 193.92px;
+
+background: #FF9900;
+border: 3.63757px solid #FFFFFF;
+border-radius: 21.8254px;
+transform: rotate(-10.38deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Vector 173 */
+
+position: absolute;
+width: 111.53px;
+height: 19.12px;
+left: 48.02px;
+top: 93.58px;
+
+border: 4.09704px solid #FFFFFF;
+transform: rotate(26deg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 437 */
+
+position: absolute;
+width: 31.54px;
+height: 38.71px;
+left: 90.5px;
+top: 65.48px;
+
+background: #FFFFFF;
+transform: matrix(0.99, -0.15, -0.03, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Ellipse 439 */
+
+position: absolute;
+width: 31.54px;
+height: 38.71px;
+left: 115.28px;
+top: 72.48px;
+
+background: #FFFFFF;
+transform: matrix(0.99, -0.15, -0.03, 1, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Ellipse 438 */
+
+position: absolute;
+width: 7.35px;
+height: 6px;
+left: 103.77px;
+top: 81.79px;
+
+background: #424242;
+transform: matrix(0, 1, -0.95, 0.3, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Ellipse 440 */
+
+position: absolute;
+width: 7.35px;
+height: 6px;
+left: 128.54px;
+top: 88.8px;
+
+background: #424242;
+transform: matrix(0, 1, -0.95, 0.3, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+z-index: 5;
+
+
+/* Frame 19125 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 27.6455px 42.1958px;
+gap: 7.28px;
+
+position: absolute;
+width: 244.44px;
+height: 101.29px;
+left: calc(50% - 244.44px/2 - 217.16px);
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 42.9233px 42.9233px 0px 42.9233px;
+
+
+/* Hello, I’m Sam. And you? */
+
+width: 160.05px;
+height: 46px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 17px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #424242;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 19127 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 311px;
+height: 87.02px;
+left: calc(50% - 311px/2 + 183.7px);
+top: 133.86px;
+
+
+
+/* Short answer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7px;
+
+width: 311px;
+height: 87.02px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Type a question */
+
+display: none;
+width: 390px;
+height: 31px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+/* Title Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 32.01px 40.74px;
+
+width: 311px;
+height: 87.02px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 42.92px 42.92px 0px 42.92px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Type here... */
+
+width: 229.52px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Type an error message */
+
+display: none;
+width: 147px;
+height: 13px;
+
+/* Error */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 13px;
+
+/* Error Color */
+color: #FA1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000001902 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 101.852px 0px 0px;
+gap: 101.85px;
+
+width: 1100px;
+height: 737.7px;
+
+background: #F5ABCE;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 19129 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 5.82px;
+
+width: 572px;
+height: 78.82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Question 2 */
+
+width: 208px;
+height: 50px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #3D3A36;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* For each feature write down two words that best capture your thoughts. */
+
+width: 572px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #3D3A36;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 19126 */
+
+width: 840.66px;
+height: 636.57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 19154 */
+
+position: absolute;
+width: 356.35px;
+height: 636.57px;
+left: 355.03px;
+top: 282.52px;
+
+
+
+/* Group 19153 */
+
+position: absolute;
+width: 356.35px;
+height: 636.57px;
+left: 355.03px;
+top: 282.52px;
+
+
+
+/* OnePlus 10T */
+
+position: absolute;
+width: 356.35px;
+height: 636.57px;
+left: 355.03px;
+top: 282.52px;
+
+
+
+/* Mockup */
+
+position: absolute;
+left: 32.28%;
+right: 35.33%;
+top: 38.3%;
+bottom: -24.59%;
+
+
+
+/* Shadow */
+
+position: absolute;
+width: 356.35px;
+height: 636.52px;
+left: calc(50% - 356.35px/2 - 16.8px);
+top: 282.57px;
+
+background: url(6e6d89ef-f958-44a0-bcde-385e4fb681e5_Shadow.png);
+mix-blend-mode: multiply;
+opacity: 0.6;
+
+
+/* OnePlus-10T-5G */
+
+position: absolute;
+width: 277.62px;
+height: 589.15px;
+left: calc(50% - 277.62px/2 + 2.46px);
+top: 282.52px;
+
+background: url(29960db2-0fa6-467b-ae53-af24ab42a4b2_OnePlus-10T-5G.png);
+
+
+/* Mockup */
+
+position: absolute;
+left: 38.74%;
+right: 38.28%;
+top: 39.92%;
+bottom: -16.54%;
+
+
+
+/* Mask */
+
+position: absolute;
+width: 252.82px;
+height: 565.23px;
+left: calc(50% - 252.82px/2 + 2.5px);
+top: 294.5px;
+
+
+
+/* Mask group */
+
+position: absolute;
+left: 38.74%;
+right: 38.28%;
+top: 39.92%;
+bottom: -16.54%;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 252.82px;
+height: 565.23px;
+left: calc(50% - 252.82px/2 + 2.5px);
+top: 294.51px;
+
+background: #000000;
+
+
+/* Design */
+
+position: absolute;
+width: 253.25px;
+height: 565.63px;
+left: calc(50% - 253.25px/2 + 2.47px);
+top: 294.25px;
+
+background: url(.png);
+
+
+/* Short answer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7px;
+
+position: absolute;
+width: 231px;
+height: 113.38px;
+left: 739.33px;
+top: 333.45px;
+
+
+
+/* Type a question */
+
+width: 231px;
+height: 31px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+/* Title Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 26.19px 40.74px;
+
+width: 231px;
+height: 75.38px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 42.92px 42.92px 0px 42.92px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Type here... */
+
+width: 149.52px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Type an error message */
+
+display: none;
+width: 147px;
+height: 13px;
+
+/* Error */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 13px;
+
+/* Error Color */
+color: #FA1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Short answer */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 7px;
+
+position: absolute;
+width: 231px;
+height: 113.38px;
+left: 129.67px;
+top: 463.67px;
+
+
+
+/* Type a question */
+
+width: 231px;
+height: 31px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 31px;
+
+/* Title Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 26.19px 40.74px;
+
+width: 231px;
+height: 75.38px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 42.92px 42.92px 0px 42.92px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Type here... */
+
+width: 149.52px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Type an error message */
+
+display: none;
+width: 147px;
+height: 13px;
+
+/* Error */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 13px;
+
+/* Error Color */
+color: #FA1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000001903 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 1100px;
+height: 737.7px;
+
+background: #FFD833;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000001908 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 7.28px;
+
+width: 1100px;
+height: 258.27px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 0px 0px 0px 365.575px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 19130 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 5.82px;
+
+width: 208px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Question 3 */
+
+width: 208px;
+height: 50px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #3D3A36;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1000001909 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 7.28px;
+
+width: 1100px;
+height: 387.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 19173 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: flex-end;
+padding: 0px;
+gap: 106.94px;
+
+width: 920.3px;
+height: 387.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19127 */
+
+margin: 0 auto;
+width: 437.58px;
+height: 308.12px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 19127 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 7.28px;
+isolation: isolate;
+
+position: absolute;
+width: 183.71px;
+height: 260.11px;
+left: calc(50% - 183.71px/2 - 368.3px);
+top: 127.16px;
+
+
+
+/* Rectangle 1559 */
+
+box-sizing: border-box;
+
+width: 127.16px;
+height: 235.21px;
+
+background: #9B77C1;
+border: 3.63757px solid #FFFFFF;
+border-radius: 59.092px;
+transform: rotate(15deg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Ellipse 441 */
+
+position: absolute;
+width: 28.95px;
+height: 35.53px;
+left: 71.3px;
+top: 58.19px;
+
+background: #FFFFFF;
+transform: matrix(0.78, -0.63, 0.48, 0.88, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Ellipse 442 */
+
+position: absolute;
+width: 28.95px;
+height: 35.53px;
+left: 94.2px;
+top: 52.38px;
+
+background: #FFFFFF;
+transform: matrix(0.78, -0.63, 0.48, 0.88, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Ellipse 443 */
+
+position: absolute;
+width: 6.75px;
+height: 5.5px;
+left: 87.17px;
+top: 77.2px;
+
+background: #000000;
+transform: matrix(0.5, 0.87, -0.67, 0.74, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+z-index: 3;
+
+
+/* Ellipse 444 */
+
+position: absolute;
+width: 6.75px;
+height: 5.5px;
+left: 110.07px;
+top: 71.4px;
+
+background: #000000;
+transform: matrix(0.5, 0.87, -0.67, 0.74, 0, 0);
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+z-index: 4;
+
+
+/* Frame 19132 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 18.9153px 29.828px;
+gap: 7.28px;
+
+position: absolute;
+width: 195.66px;
+height: 57.83px;
+left: calc(50% - 195.66px/2 - 120.4px);
+top: 198.46px;
+
+background: #FFFFFF;
+border-radius: 0px 42.9233px 42.9233px 42.9233px;
+
+
+/* Select all that apply */
+
+width: 136px;
+height: 20px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+display: flex;
+align-items: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 19128 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 27.6455px 42.1958px;
+gap: 7.28px;
+
+position: absolute;
+width: 286.64px;
+height: 101.29px;
+left: calc(50% - 286.64px/2 - 190.97px);
+top: 79.14px;
+
+background: #FFFFFF;
+border-radius: 42.9233px 42.9233px 42.9233px 0px;
+
+
+/* Which other apps your kid use for learn? */
+
+width: 202.25px;
+height: 46px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Checkbox Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+margin: 0 auto;
+width: 291.73px;
+height: 387.27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Type a question */
+
+display: none;
+width: 291.73px;
+height: 16px;
+
+/* Title */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+/* Title Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+align-items: flex-start;
+align-content: flex-start;
+padding: 50.2px 40.74px;
+gap: 32px 40.74px;
+
+width: 291.73px;
+height: 387.27px;
+
+background: #FFFFFF;
+border-radius: 22.12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Option 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8.73px;
+
+width: 82.59px;
+height: 127.43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #000000;
+border-radius: 2px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 2px;
+top: 2px;
+
+border-radius: 2px;
+
+
+/* Frame 1000001925 */
+
+width: 82.59px;
+height: 78.97px;
+
+background: url(duolingo.png);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+width: 82.59px;
+height: 19px;
+
+/* Input */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Option 2 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8.73px;
+
+width: 82.59px;
+height: 127.43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #000000;
+border-radius: 2px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 2px;
+top: 2px;
+
+background: #FFE05C;
+border-radius: 2px;
+
+
+/* Frame 1000001925 */
+
+width: 82.59px;
+height: 78.97px;
+
+background: url(Falou.png);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+width: 82.59px;
+height: 19px;
+
+/* Input */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Option 3 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8.73px;
+
+width: 82.59px;
+height: 127.43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #000000;
+border-radius: 2px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 2px;
+top: 2px;
+
+background: #FFE05C;
+border-radius: 2px;
+
+
+/* Frame 1000001925 */
+
+width: 82.59px;
+height: 78.97px;
+
+background: url(cueMath.png);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+width: 82.59px;
+height: 19px;
+
+/* Input */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Option 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 8.73px;
+
+width: 82.59px;
+height: 127.43px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 12px;
+height: 12px;
+
+background: #FFFFFF;
+border-radius: 4px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 12px;
+height: 12px;
+left: 0px;
+top: 0px;
+
+border: 1px solid #000000;
+border-radius: 2px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 8px;
+height: 8px;
+left: 2px;
+top: 2px;
+
+border-radius: 2px;
+
+
+/* Frame 1000001925 */
+
+width: 82.59px;
+height: 78.97px;
+
+background: url(drop.png);
+border-radius: 15px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Checkbox */
+
+width: 82.59px;
+height: 19px;
+
+/* Input */
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+text-align: center;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Type an error message */
+
+display: none;
+width: 147px;
+height: 13px;
+
+/* Error */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 13px;
+
+/* Error Color */
+color: #FA1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000001904 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 71.2963px 0px;
+gap: 67.66px;
+isolation: isolate;
+
+width: 1100px;
+height: 737.7px;
+
+background: #0091EA;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000001910 */
+
+position: absolute;
+width: 554px;
+height: 737.7px;
+right: 0px;
+bottom: 0.09px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 19131 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 5.82px;
+
+width: 265px;
+height: 78.82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Question 4 */
+
+width: 208px;
+height: 50px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* How much are you willing to pay? */
+
+width: 265px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Group 19158 */
+
+width: 900px;
+height: 400px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Radio Buttons */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+position: absolute;
+width: 900px;
+height: 400px;
+left: 100px;
+top: 217.78px;
+
+
+
+/* Type a question */
+
+display: none;
+width: 900px;
+height: 16px;
+
+/* Title */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+/* Title Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+width: 900px;
+height: 400px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Option 1 */
+
+position: absolute;
+width: 278px;
+height: 362px;
+left: 0px;
+top: 38px;
+
+
+
+/* Frame 1000001926 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 274px;
+height: 345px;
+left: 0px;
+top: 17px;
+
+background: #FFFFFF;
+border-radius: 25.06px;
+
+
+/* Frame 19139 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 17.46px;
+
+width: 131.68px;
+height: 249.03px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* plan */
+
+width: 48px;
+height: 12px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 12px;
+text-transform: uppercase;
+
+color: #332FFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Radio */
+
+width: 104px;
+height: 47px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 47px;
+/* identical to box height */
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 19128 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 5.82px;
+
+width: 131.68px;
+height: 99.65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 19137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14.55px;
+
+width: 111.04px;
+height: 99.65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19132 */
+
+width: 98.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Monthly payment */
+
+position: absolute;
+width: 81px;
+height: 14px;
+left: 17.04px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 461 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 2.91px;
+
+background: #332FFF;
+
+
+/* Group 19131 */
+
+width: 98.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 5 Lessons per day */
+
+position: absolute;
+width: 81px;
+height: 14px;
+left: 17.04px;
+top: 28.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 462 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 31.46px;
+
+background: #332FFF;
+
+
+/* Group 19130 */
+
+width: 111.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Basic lessons unlock */
+
+position: absolute;
+width: 94px;
+height: 14px;
+left: 17.04px;
+top: 57.1px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #C3C3C3;
+
+
+
+/* Ellipse 463 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 60.01px;
+
+background: #E5E5E5;
+
+
+/* Group 19129 */
+
+width: 92.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Event invitations */
+
+position: absolute;
+width: 75px;
+height: 14px;
+left: 17.04px;
+top: 85.65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #C3C3C3;
+
+
+
+/* Ellipse 464 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 88.56px;
+
+background: #D9D9D9;
+
+
+/* cost */
+
+width: 130.95px;
+height: 38px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 124px;
+top: 0px;
+
+border-radius: 15px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 15px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 8px;
+top: 7px;
+
+border-radius: 7.5px;
+
+
+/* Option 2 */
+
+position: absolute;
+width: 278px;
+height: 362px;
+left: 311px;
+top: 0px;
+
+
+
+/* Frame 1000001926 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 274px;
+height: 345px;
+left: 0px;
+top: 17px;
+
+background: #FFFFFF;
+border-radius: 25.06px;
+
+
+/* Frame 19139 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 17.46px;
+
+width: 167px;
+height: 249.03px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* plan */
+
+width: 71px;
+height: 12px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 12px;
+text-transform: uppercase;
+
+color: #332FFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Radio */
+
+width: 167px;
+height: 47px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 47px;
+/* identical to box height */
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 19128 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 5.82px;
+
+width: 131.68px;
+height: 99.65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 19137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14.55px;
+
+width: 111.04px;
+height: 99.65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19132 */
+
+width: 98.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Monthly payment */
+
+position: absolute;
+width: 81px;
+height: 14px;
+left: 17.04px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 461 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 2.91px;
+
+background: #332FFF;
+
+
+/* Group 19131 */
+
+width: 98.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 5 Lessons per day */
+
+position: absolute;
+width: 81px;
+height: 14px;
+left: 17.04px;
+top: 28.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 462 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 31.46px;
+
+background: #332FFF;
+
+
+/* Group 19130 */
+
+width: 111.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Basic lessons unlock */
+
+position: absolute;
+width: 94px;
+height: 14px;
+left: 17.04px;
+top: 57.1px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 463 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 60.01px;
+
+background: #332FFF;
+
+
+/* Group 19129 */
+
+width: 92.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Event invitations */
+
+position: absolute;
+width: 75px;
+height: 14px;
+left: 17.04px;
+top: 85.65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #C3C3C3;
+
+
+
+/* Ellipse 464 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 88.56px;
+
+background: #D9D9D9;
+
+
+/* cost */
+
+width: 130.95px;
+height: 38px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 124px;
+top: 0px;
+
+border-radius: 15px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 15px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 8px;
+top: 7px;
+
+background: #0091EA;
+border-radius: 7.5px;
+
+
+/* Option 3 */
+
+position: absolute;
+width: 278px;
+height: 362px;
+left: 622px;
+top: 38px;
+
+
+
+/* Frame 1000001926 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 274px;
+height: 345px;
+left: 0px;
+top: 17px;
+
+background: #FFFFFF;
+border-radius: 25.06px;
+
+
+/* Frame 19139 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 17.46px;
+
+width: 161px;
+height: 249.03px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* plan */
+
+width: 46px;
+height: 12px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 9px;
+line-height: 12px;
+text-transform: uppercase;
+
+color: #332FFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Radio */
+
+width: 161px;
+height: 47px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 47px;
+/* identical to box height */
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 19128 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 5.82px;
+
+width: 131.68px;
+height: 99.65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 19137 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 14.55px;
+
+width: 111.04px;
+height: 99.65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19132 */
+
+width: 98.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Monthly payment */
+
+position: absolute;
+width: 81px;
+height: 14px;
+left: 17.04px;
+top: 0px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 461 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 2.91px;
+
+background: #332FFF;
+
+
+/* Group 19131 */
+
+width: 98.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 5 Lessons per day */
+
+position: absolute;
+width: 81px;
+height: 14px;
+left: 17.04px;
+top: 28.55px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 462 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 31.46px;
+
+background: #332FFF;
+
+
+/* Group 19130 */
+
+width: 111.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Basic lessons unlock */
+
+position: absolute;
+width: 94px;
+height: 14px;
+left: 17.04px;
+top: 57.1px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 463 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 60.01px;
+
+background: #332FFF;
+
+
+/* Group 19129 */
+
+width: 92.04px;
+height: 14px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Event invitations */
+
+position: absolute;
+width: 75px;
+height: 14px;
+left: 17.04px;
+top: 85.65px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 9px;
+line-height: 14px;
+/* identical to box height */
+
+color: #686868;
+
+
+
+/* Ellipse 464 */
+
+position: absolute;
+width: 8.73px;
+height: 8.73px;
+left: 0px;
+top: 88.56px;
+
+background: #332FFF;
+
+
+/* cost */
+
+width: 130.95px;
+height: 38px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 38px;
+/* identical to box height */
+text-transform: capitalize;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Frame */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 124px;
+top: 0px;
+
+border-radius: 15px;
+
+
+/* Rectangle */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border: 3px solid #000000;
+border-radius: 15px;
+
+
+/* Inner circle */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 8px;
+top: 7px;
+
+border-radius: 7.5px;
+
+
+/* Type an error message */
+
+display: none;
+width: 147px;
+height: 13px;
+
+/* Error */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 13px;
+
+/* Error Color */
+color: #FA1C1C;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1000001905 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 101.852px 7.27513px 7.27513px;
+gap: 41.47px;
+isolation: isolate;
+
+width: 1100px;
+height: 737.7px;
+
+background: #9B77C1;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame 1000001917 */
+
+position: absolute;
+width: 554px;
+height: 737.7px;
+right: 0px;
+bottom: 0.79px;
+
+background: rgba(255, 255, 255, 0.2);
+border-radius: 0px 0px 0px 365.575px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
+
+
+/* Frame 19132 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 5.82px;
+
+width: 643.85px;
+height: 78.82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+z-index: 1;
+
+
+/* Question 5 */
+
+width: 226.98px;
+height: 50px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 50px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Any other comments? */
+
+width: 643.85px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1000001911 */
+
+width: 872.29px;
+height: 384.3px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+z-index: 2;
+
+
+/* Frame 1000001921 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: absolute;
+width: 347.02px;
+height: 324.62px;
+left: 525.26px;
+top: 0px;
+
+
+
+/* Paragraph */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 347.02px;
+height: 263.62px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Type a question */
+
+width: 347.02px;
+height: 16px;
+
+/* Title */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Frame */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 40px 15px 15px 45px;
+
+width: 347.02px;
+height: 214.62px;
+
+background: #FFFFFF;
+border: 1px solid #E0E0E0;
+border-radius: 45.8px 45.8px 45.8px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Type here... */
+
+width: 287.02px;
+height: 23px;
+
+font-family: 'Open Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 17px;
+line-height: 23px;
+
+/* Input Color */
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Type an error message */
+
+width: 147px;
+height: 13px;
+
+/* Error */
+font-family: 'Spartan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 13px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Submit button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 12px 25px;
+
+width: 122px;
+height: 51px;
+
+background: #3D3A36;
+border-radius: 25px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Submit */
+
+width: 72px;
+height: 27px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 27px;
+/* identical to box height */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Group 19144 */
+
+position: absolute;
+width: 555.78px;
+height: 348.65px;
+left: 0px;
+top: 35.65px;
+
+
+
+/* Group 19141 */
+
+position: absolute;
+width: 268.03px;
+height: 267.26px;
+left: 287.75px;
+top: 104.12px;
+
+
+
+/* Rectangle 1566 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 190.89px;
+height: 193.92px;
+left: calc(50% - 190.89px/2 - 52.95px);
+top: 104.12px;
+
+background: #F5ABCE;
+border: 3.63757px solid #FFFFFF;
+border-radius: 21.8254px;
+transform: rotate(-55.38deg);
+
+
+/* Vector 174 */
+
+position: absolute;
+width: 111.53px;
+height: 19.12px;
+left: calc(50% - 111.53px/2 - 10.9px);
+top: 226.87px;
+
+border: 4.09704px solid #FFFFFF;
+transform: rotate(-19deg);
+
+
+/* Ellipse 473 */
+
+position: absolute;
+width: 31.54px;
+height: 38.71px;
+left: calc(50% - 31.54px/2 - 42.53px);
+top: 196.45px;
+
+background: #FFFFFF;
+transform: matrix(0.59, -0.81, 0.69, 0.72, 0, 0);
+
+
+/* Ellipse 474 */
+
+position: absolute;
+width: 31.54px;
+height: 38.71px;
+left: calc(50% - 31.54px/2 - 20.07px);
+top: 183.89px;
+
+background: #FFFFFF;
+transform: matrix(0.59, -0.81, 0.69, 0.72, 0, 0);
+
+
+/* Ellipse 475 */
+
+position: absolute;
+width: 7.35px;
+height: 6px;
+left: calc(50% - 7.35px/2 - 36.53px);
+top: 217.31px;
+
+background: #000000;
+transform: matrix(0.71, 0.71, -0.46, 0.89, 0, 0);
+
+
+/* Ellipse 476 */
+
+position: absolute;
+width: 7.35px;
+height: 6px;
+left: calc(50% - 7.35px/2 - 13.04px);
+top: 207.43px;
+
+background: #000000;
+transform: matrix(0.71, 0.71, -0.46, 0.89, 0, 0);
+
+
+/* Group 19140 */
+
+position: absolute;
+width: 183.71px;
+height: 260.11px;
+left: 168.44px;
+top: 77.2px;
+
+
+
+/* Rectangle 1565 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 127.16px;
+height: 235.21px;
+left: calc(50% - 127.16px/2 - 204.13px);
+top: 77.2px;
+
+background: #FF9900;
+border: 3.63757px solid #FFFFFF;
+border-radius: 59.092px;
+transform: rotate(15deg);
+
+
+/* Group 19139 */
+
+position: absolute;
+width: 62.44px;
+height: 55.16px;
+left: 237.55px;
+top: 130.31px;
+
+
+
+/* Ellipse 469 */
+
+position: absolute;
+width: 28.95px;
+height: 35.53px;
+left: calc(50% - 28.95px/2 - 184.12px);
+top: 136.12px;
+
+background: #FFFFFF;
+transform: matrix(0.78, -0.63, 0.48, 0.88, 0, 0);
+
+
+/* Ellipse 470 */
+
+position: absolute;
+width: 28.95px;
+height: 35.53px;
+left: calc(50% - 28.95px/2 - 161.21px);
+top: 130.31px;
+
+background: #FFFFFF;
+transform: matrix(0.78, -0.63, 0.48, 0.88, 0, 0);
+
+
+/* Ellipse 471 */
+
+position: absolute;
+width: 6.75px;
+height: 5.5px;
+left: calc(50% - 6.75px/2 - 179.35px);
+top: 155.13px;
+
+background: #000000;
+transform: matrix(0.5, 0.87, -0.67, 0.74, 0, 0);
+
+
+/* Ellipse 472 */
+
+position: absolute;
+width: 6.75px;
+height: 5.5px;
+left: calc(50% - 6.75px/2 - 156.44px);
+top: 149.33px;
+
+background: #000000;
+transform: matrix(0.5, 0.87, -0.67, 0.74, 0, 0);
+
+
+/* Group 19138 */
+
+position: absolute;
+width: 222.65px;
+height: 348.65px;
+left: 0px;
+top: 35.65px;
+
+
+
+/* Rectangle 1548 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 322.29px;
+height: 144.78px;
+left: calc(50% - 322.29px/2 - 275px);
+top: 35.65px;
+
+background: #41A456;
+border: 3.63757px solid #FFFFFF;
+border-radius: 19.424px 19.424px 19.424px 0px;
+transform: rotate(-104.87deg);
+
+
+/* Group 19122 */
+
+position: absolute;
+width: 77.94px;
+height: 86.93px;
+left: 50.58px;
+top: 103.39px;
+
+transform: rotate(-15deg);
+
+
+/* Ellipse 477 */
+
+position: absolute;
+width: 28.95px;
+height: 35.53px;
+left: calc(50% - 28.95px/2 - 364.69px);
+top: 116.96px;
+
+background: #FFFFFF;
+transform: matrix(0.75, -0.67, 0.52, 0.85, 0, 0);
+
+
+/* Ellipse 478 */
+
+position: absolute;
+width: 28.95px;
+height: 35.53px;
+left: calc(50% - 28.95px/2 - 327.67px);
+top: 106.14px;
+
+background: #FFFFFF;
+transform: matrix(0.75, -0.67, 0.52, 0.85, 0, 0);
+
+
+/* Ellipse 479 */
+
+position: absolute;
+width: 6.75px;
+height: 5.5px;
+left: calc(50% - 6.75px/2 - 359.69px);
+top: 136.1px;
+
+background: #000000;
+transform: matrix(0.54, 0.84, -0.64, 0.77, 0, 0);
+
+
+/* Ellipse 480 */
+
+position: absolute;
+width: 6.75px;
+height: 5.5px;
+left: calc(50% - 6.75px/2 - 322.66px);
+top: 125.28px;
+
+background: #000000;
+transform: matrix(0.54, 0.84, -0.64, 0.77, 0, 0);
+
+
+/* Vector 175 */
+
+position: absolute;
+width: 76.67px;
+height: 19.12px;
+left: calc(50% - 76.67px/2 - 329.66px);
+top: 163.52px;
+
+border: 4.09704px solid #FFFFFF;
+transform: rotate(-19.51deg);
+
+
+/* Frame 1000001916 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+position: relative;
+width: 1100px;
+height: 714.42px;
+
+background: url(background.png);
+
+
+/* Frame 1000001919 */
+
+width: 390.67px;
+height: 572.54px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Thank you! */
+
+position: absolute;
+width: 390.67px;
+height: 67px;
+left: calc(50% - 390.67px/2);
+top: 205.89px;
+
+font-family: 'Bowlby One';
+font-style: normal;
+font-weight: 400;
+font-size: 43px;
+line-height: 67px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #3D3A36;
+
+
+
+/* This is the end. */
+
+position: absolute;
+width: 184.06px;
+height: 27px;
+left: calc(50% - 184.06px/2 - 2.91px);
+top: 0px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 20px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #3D3A36;
+
+
+
+/* Frame 1000001917 */
+
+position: absolute;
+width: 257.57px;
+height: 204.42px;
+left: 69px;
+top: 368.12px;
+
+
+
+/* Ellipse 441 */
+
+position: absolute;
+width: 95.84px;
+height: 117.62px;
+left: calc(50% - 95.84px/2 - 46.28px);
+top: 10.51px;
+
+background: #FFFFFF;
+transform: matrix(0.96, -0.26, 0.09, 1, 0, 0);
+
+
+/* Ellipse 442 */
+
+position: absolute;
+width: 95.84px;
+height: 117.62px;
+left: calc(50% - 95.84px/2 + 45.83px);
+top: 0px;
+
+background: #FFFFFF;
+transform: matrix(0.78, -0.63, 0.48, 0.88, 0, 0);
+
+
+/* Ellipse 443 */
+
+position: absolute;
+width: 22.35px;
+height: 18.21px;
+left: calc(50% - 22.35px/2 - 41.4px);
+top: 64.26px;
+
+background: #3D3A36;
+transform: matrix(0.11, 0.99, -0.91, 0.41, 0, 0);
+
+
+/* Vector 178 */
+
+position: absolute;
+width: 137.43px;
+height: 23.31px;
+left: calc(50% - 137.43px/2 - 60.07px);
+top: 146.34px;
+
+border: 9.3487px solid #3D3A36;
+transform: rotate(15deg);
+
+
+/* Ellipse 444 */
+
+position: absolute;
+width: 22.35px;
+height: 18.21px;
+left: calc(50% - 22.35px/2 + 61.63px);
+top: 62.95px;
+
+background: #3D3A36;
+transform: matrix(0.5, 0.87, -0.67, 0.74, 0, 0);

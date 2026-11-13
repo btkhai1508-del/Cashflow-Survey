@@ -1,0 +1,6 @@
+{
+  "name": "Cashflow Survey & Responsive Landing Page Editor",
+  "description": "Interactive landing page and survey editor with dedicated mobile-friendly touch interface, desktop editor, and authentic Robert Kiyosaki Cashflow boardgame theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
